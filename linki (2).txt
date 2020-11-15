@@ -1,0 +1,14 @@
+
+------------------------------------------LINKI------------------------------------------------
+https://www.flynerd.pl/2017/09/git-dla-poczatkujacych-ucz-sie-interaktywnie.html //wstep w git
+https://www.youtube.com/playlist?list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH //overment tutorial
+https://git-scm.com/doc //dokumentacja gita
+https://www.youtube.com/watch?v=9qrgY2Dw30g //hello roman tutorial
+https://pl.wikipedia.org/wiki/Git_(oprogramowanie) //standardowo wikipedia >D
+https://bedeprogramistka.pl/jak-uzywac-git-huba-instalacja-i-obsluga-gita-krok-po-kroku // <---- z tego Kacper korzystał
+---------------------------------------LINKI DO ADDONOW--------------------------
+https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+https://plugins.jetbrains.com/plugin/9792-key-promoter-x
+https://plugins.jetbrains.com/plugin/1800-database-navigator
+https://plugins.jetbrains.com/plugin/7973-sonarlint
